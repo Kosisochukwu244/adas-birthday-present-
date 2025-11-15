@@ -49,23 +49,22 @@ body {
     width: 400px;
     border: 6px solid orangered;
     border-radius: 10px;
-    background-image: url("images/top-view-xmas-gifts-grey-white-table-with-free-place.jpg");
+    background-image: url("top-view-xmas-gifts-grey-white-table-with-free-place.jpg");
     background-size: contain;
     height: 400px;
 }
 
 #gift-img-happy:hover {
-    background-image: url("images/happy.gif");
+    background-image: url("happy.gif");
 }
 
 #gift-img-hot:hover {
-    background-image: url("images/celebration-dance.gif");
+    background-image: url("celebration-dance.gif");
 }
 
 #gift-img3:hover {
-    background-image: url("images/flamingo-albert.gif");
+    background-image: url("flamingo-albert.gif");
 }
-
 
 .gift-section {
     margin-top: 50px;
@@ -85,4 +84,5 @@ body {
     width: 400px;
     margin: 40px auto 10px;
     font-style: italic;
+
 }
